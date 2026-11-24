@@ -1,2 +1,2 @@
-# skills-introduction-to-github
+# skills-introduction-to-githubreally
 Exercise: Introduction to GitHub
